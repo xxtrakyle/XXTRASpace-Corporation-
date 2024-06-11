@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html class="no-js" data-placeholder-focus="false">
+    <head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0" /> 
+    <meta name="mobileoptimized" content="0" />
+    <title>index</title>
+    <meta name="description" content="" /> 
+    <meta name="keywords" content="" /> 
+    <meta name="author" content="Constr" /> 
+
+    <link rel="stylesheet" href="css/bootstrap.min.css"> 
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.css"> 
+    <link rel="stylesheet" href="css/animate.css"> 
+    <link rel="stylesheet" href="css/custom.css">  
+
+    <link rel="shortcut icon" href=""> 
+    <link rel="apple-touch-icon" href=""> 
+    <link rel="apple-touch-icon" sizes="72x72" href="">
+    <link rel="apple-touch-icon" sizes="114x114" href=""> 
+
+      <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <![endif]-->
+
+    </head>
+Here is my css, I'm using SASS
+
+$screen-lg-max: 1880px;
+$screen-lg-min: 1200px;
+$screen-md-max: 1199px;
+$screen-md-min: 992px;
+$screen-sm-max: 991px;
+$screen-sm-min: 768px;
+$screen-xs-max: 767px;
+
+@media (min-width: $screen-lg-min) {
+
+}
+
+/* Medium Devices, Desktops */
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+
+}
+
+/* Small Devices, Tablets */
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+
+}
+
+/* Extra Small Devices, Phones */ 
+@media (max-width: $screen-xs-max) {
+
+}
+@-ms-viewport{
+    width: device-width;
+}
