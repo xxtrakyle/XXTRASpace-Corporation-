@@ -57,3 +57,155 @@ $screen-xs-max: 767px;
 @-ms-viewport{
     width: device-width;
 }
+
+<!DOCTYPE html5>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kyle Alexander Mern Mitchell - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: black;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff0000; /* Red */
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        nav {
+            text-align: center;
+            margin-top: 20px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #ff0000; /* Red */
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kyle Alexander Mern Mitchell</h1>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage! I am Kyle Alexander Mern Mitchell, a proud member of XXTRASpace Corporation. I am passionate about exploring the depths of space and pushing the boundaries of human knowledge.</p>
+    </section>
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Here you'll find a showcase of my latest projects and adventures in space exploration. Stay tuned for updates!</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me:</p>
+        <p>Email: kyle.mitchell@xxtraspace.com</p>
+        <p>Phone: +1 (XXX) XXX-XXXX</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Kyle Alexander Mern Mitchell. All rights reserved.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kyle Alexander Mitchell - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: black;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff0000; /* Red */
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        nav {
+            text-align: center;
+            margin-top: 20px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #ff0000; /* Red */
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kyle Alexander Mitchell</h1>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage! I am Kyle Alexander Mitchell, a proud member of XXTRASpace Corporation. I am passionate about exploring the depths of space and pushing the boundaries of human knowledge.</p>
+    </section>
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Here you'll find a showcase of my latest projects and adventures in space exploration. Stay tuned for updates!</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me:</p>
+        <p>Email: kyle.mitchell@xxtraspace.com</p>
+        <p>Phone: +1 (XXX) XXX-XXXX</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Kyle Alexander Mitchell. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+} 
+    </footer>
+</body>
+</html>
